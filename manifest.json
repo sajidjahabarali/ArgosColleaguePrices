@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Argos Colleague Prices",
-  "description": "Extension to show prices with the colleague discount on the Argos site.",
+  "description": "Extension to show prices with the colleague discount on the Argos site as well as how long until the next increased discount day.",
   "version": "1.0",
   "icons": {
     "16": "icon16.png",
